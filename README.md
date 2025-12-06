@@ -7,12 +7,15 @@
 - **Tugas:** Responsi 2 - Paket 3
 
 ## Video Demo Aplikasi
-![Demo Video - Inventaris Buku H1D023087](./Investaris%20Buku%20-%20H1D023087.gif)**
+![Inventaris Buku Edwi Mart (H1D023087) - Google Chrome 2025-12-06 17-35-37](https://github.com/user-attachments/assets/59a72d2b-81e3-4548-90e4-83e62c583098)
 
 ## Deskripsi Aplikasi
 Aplikasi Inventaris Buku Edwi Mart adalah aplikasi mobile berbasis Flutter yang terhubung dengan REST API CodeIgniter 4 untuk mengelola inventaris buku. Aplikasi ini menyediakan platform manajemen buku yang lengkap dengan fitur autentikasi, CRUD operations, dan antarmuka yang modern dengan desain gradient cokelat.
 
 ## Spesifikasi API
+
+### LINK Github API
+https://github.com/EdwiTsanys/APIRESPONSI2
 
 ### Base URL
 ```
